@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="right"> 이수만 </h1>
+
+- 🔭 I’m currently working on aduino
+- 🌱 I’m currently learning aduino
+- 👯 Currentely Projcets / Smart Window for arduin IOT 
+- 💬 email / dnjxj0011@naver.com
+
+![lsm15987's github stats](https://github-readme-stats.vercel.app/api?username=lsm15987&show_icons=true)
+[![lsm15987's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lsm15987&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lsm15987)
 
 <!--
 **lsm15987/lsm15987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
